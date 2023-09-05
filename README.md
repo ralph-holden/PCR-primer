@@ -1,2 +1,2 @@
 # PCR-primer
-Code that searches DNA/RNA sequence for appropriate PCR primers
+Code that searches DNA sequence for appropriate PCR primers
